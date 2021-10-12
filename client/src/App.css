@@ -1,0 +1,39 @@
+.fas{
+  cursor: pointer;
+}
+.far{
+  cursor: pointer;
+}
+body{
+  background-color: #121212;
+  color: white;
+}
+.card{
+  background-color: rgb(78, 46, 155);
+}
+.btn{
+  color: white;
+  background-color: rgb(78, 46, 155);;
+}
+.btn:hover{
+  background-color: rgb(87, 39, 199);
+  color: white;
+}
+.username{
+  margin-top: 20px;
+  color: rgb(216, 176, 45);
+  background-color: rgb(78, 46, 155);
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+}
+.time{
+  margin-top: 10px;
+}
+#hello{
+  width: 100px;
+  height: 50px;
+}
+.note-item:hover{
+  background-color: rgb(48, 30, 129);
+}
